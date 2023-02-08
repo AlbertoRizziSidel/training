@@ -1,3 +1,3 @@
 This is a document
 Second line added
-The feature
+The feature modified
